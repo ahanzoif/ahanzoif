@@ -29,7 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![AhanZoif GitHub stats](https://github-readme-stats.vercel.app/api?username=ahanzoif&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanzoif&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanzoif&layout=compact&theme=tokyonight)
 
 ---
 
@@ -43,4 +47,4 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/mdkaif  
 
-🎥 YouTube: https://youtube.com/@thebytebuster
+🎥 YouTube:  https://www.youtube.com/@thebytebusteryt
