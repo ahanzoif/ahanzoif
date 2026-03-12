@@ -2,24 +2,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ahan+Zoif;aka+Md+Kaif" />
 </h1>
 
-
-
 # 💫 About Me:
 <br>💻 Computer Science Student<br>🚀 Currently learning C++ & Data Structures & Algorithms (DSA) Learner<br>🔐 Cybersecurity & Web Development Enthusiast<br>🎥 Tech Creator at The Byte Buster
 
-
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdkaif)
+<p align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNMxrdJGFKLDwIcoRDnR4uA) 
+<a href="https://linkedin.com/in/mdkaif">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
 
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahanzoif)
+<a href="https://youtube.com/@thebytebusteryt">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebytebuster_yt) 
+<a href="https://x.com/ahanzoif">
+<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+</a>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifmd9006@gmail.com) <img width="912" height="218" alt="image" src="https://github.com/user-attachments/assets/ae220d6e-0ef7-4e20-bb17-961937644184" />
+<a href="https://instagram.com/thebytebuster_yt">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
 
+<a href="mailto:kaifmd9006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
