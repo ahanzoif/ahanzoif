@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ahan+Zoif;aka+Md+Kaif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahan+Zoif;aka+Md+Kaif+😉" />
 </h1>
 
 # 💫 About Me:
@@ -8,27 +8,11 @@
 ## 🌐 Socials:
 
 <p align="center">
-
-<a href="https://linkedin.com/in/mdkaif">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@thebytebusteryt">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ahanzoif">
-<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/thebytebuster_yt">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:kaifmd9006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://linkedin.com/in/mdkaif"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@thebytebusteryt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href="https://x.com/ahanzoif"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/thebytebuster_yt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="mailto:kaifmd9006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 # 💻 Tech Stack:
@@ -51,6 +35,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=ahanzoif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
