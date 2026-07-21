@@ -1,50 +1,131 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahan+Zoif;aka+Md+Kaif+😉" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahan+Zoif;aka+Md+Kaif😉;Computer+Science+Student;C%2B%2B+%7C+DSA+Learner;Cybersecurity+%26+Web+Developer" />
 </h1>
 
-# 💫 About Me:
-<br>💻 Computer Science Student<br>🚀 Currently learning C++ & Data Structures & Algorithms (DSA) Learner<br>🔐 Cybersecurity & Web Development Enthusiast<br>🎥 Tech Creator at The Byte Buster
-
-## 🌐 Socials:
-
 <p align="center">
-<a href="https://linkedin.com/in/mdkaif"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@thebytebusteryt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-<a href="https://x.com/ahanzoif"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-<a href="https://instagram.com/thebytebuster_yt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="mailto:kaifmd9006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ahanzoif&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahanzoif&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+🎓 B.Tech Computer Science Student
 
-## 🔥 Streak Stats
+💻 Passionate about C++, Data Structures & Algorithms
 
-![Streak](https://streak-stats.demolab.com?user=ahanzoif&theme=tokyonight&cache_seconds=1800)
+🌐 Exploring Web Development & Cybersecurity
 
-## 💻 Top Languages
+🎥 Tech Creator at **The Byte Buster**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanzoif&layout=compact&theme=tokyonight&cache_seconds=1800)
+🚀 Goal: Become a Software Engineer & Build Amazing Projects
 
-## 📚 Currently Learning
+---
 
-- Data Structures & Algorithms (C++)
-- Cybersecurity Fundamentals
-- Building practical Web Development projects
+# 🌐 Connect With Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahanzoif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<a href="https://linkedin.com/in/mdkaif">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://youtube.com/@thebytebusteryt">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ahanzoif">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/thebytebuster_yt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:kaifmd9006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,vscode,linux,canva&perline=5"/>
+</p>
+
+---
+
+# 📈 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahanzoif&theme=tokyonight)
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahanzoif&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahanzoif&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ahanzoif&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Ahan Zoif Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanzoif&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📚 Currently Learning
+
+```text
+C++             ██████████ 100%
+DSA             ███████░░░ 70%
+JavaScript      ████████░░ 80%
+Node.js         ███░░░░░░░ 30%
+React.js        ░░░░░░░░░░ 0%
+Cybersecurity   █████░░░░░ 50%
+```
+
+---
+
+# 🚀 Featured Projects
+
+📖 **IT Technical Magazine (Student Editor)**
+
+🌐 **Personal Portfolio Website**
+
+📝 **Byte Blogs**
+
+🎲 **JavaScript Mini Projects**
+
+🔐 **Cybersecurity Learning Labs**
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=ahanzoif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# ✍ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=ahanzoif&icon=5&color=6"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</h3>
