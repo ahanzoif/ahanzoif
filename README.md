@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahan+Zoif;aka+Md+Kaif😉;Computer+Science+Student;C%2B%2B+%7C+DSA+Learner;Cybersecurity+%26+Web+Developer" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahanzoif&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
@@ -107,9 +107,9 @@ Cybersecurity   █████░░░░░ 50%
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ahanzoif&icon=5&color=6"/>
-</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahanzoif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> -->
 
 ---
 
