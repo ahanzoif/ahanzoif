@@ -16,8 +16,6 @@
 
 🌐 Exploring Web Development & Cybersecurity
 
-🎥 Tech Creator at **The Byte Buster**
-
 🚀 Goal: Become a Software Engineer & Build Amazing Projects
 
 ---
@@ -71,12 +69,10 @@
 # 📚 Currently Learning
 
 ```text
-C++             ██████████ 100%
-DSA             ███████░░░ 70%
-JavaScript      ████████░░ 80%
-Node.js         ███░░░░░░░ 30%
-React.js        ░░░░░░░░░░ 0%
-Cybersecurity   █████░░░░░ 50%
+C++            
+DSA            
+JavaScript   
+Node.js        
 ```
 
 ---
@@ -87,11 +83,8 @@ Cybersecurity   █████░░░░░ 50%
 
 🌐 **Personal Portfolio Website**
 
-📝 **Byte Blogs**
-
 🎲 **JavaScript Mini Projects**
 
-🔐 **Cybersecurity Learning Labs**
 
 ---
 
